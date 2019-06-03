@@ -145,5 +145,4 @@ if __name__ == '__main__':
 
     plot_results(point_by_point_predictions, y_test, 'point_by_point_predictions')
 
-    print('hello world!')
-
+    print('end!')
