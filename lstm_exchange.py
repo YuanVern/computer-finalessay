@@ -144,3 +144,6 @@ if __name__ == '__main__':
     print('Training duration (s) : ', time.time() - global_start_time)
 
     plot_results(point_by_point_predictions, y_test, 'point_by_point_predictions')
+
+    print('hello world!')
+
